@@ -27,3 +27,17 @@ function vowel_count(string1)
 };
 
 alert(vowel_count("The quick brown fox"));
+
+// Reverse a string function.
+
+function reverse_string(string1)
+{
+	var output = "";
+	for (var i = string1.length - 1; i >= 0; i--)
+	{
+		output += string1[i];
+	};
+	console.log(output);
+};
+
+reverse_string("The quick brown fox");
