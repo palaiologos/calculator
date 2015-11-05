@@ -46,4 +46,11 @@
 	width: 25%;
 	background-color: #E4E4E4;
 	float: left;
+	text-align: center;
+	font-weight: bold;
+	font-size: 28px;
+	padding-top: 20px;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
 }
